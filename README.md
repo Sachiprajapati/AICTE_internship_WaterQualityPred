@@ -34,9 +34,9 @@ The project utilizes the `PB_All_2000_2021.csv` dataset, which contains water qu
 * Jupyter Notebook – Interactive experimentation
 
 ## Internship Details
-Internship Type: AICTE Virtual Internship - Edunet Foundation
-Sponsor: Shell
-Duration: June 2025 (1 month)
-Focus Area: Machine Learning in Environmental Monitoring
+* Internship Type: AICTE Virtual Internship - Edunet Foundation
+* Sponsor: Shell
+* Duration: June 2025 (1 month)
+* Focus Area: Machine Learning in Environmental Monitoring
 
 
