@@ -36,7 +36,7 @@ The project utilizes the `PB_All_2000_2021.csv` dataset, which contains water qu
 ## Internship Details
 * Internship Type: AICTE Virtual Internship - Edunet Foundation
 * Sponsor: Shell
-* Duration: June 2025 (1 month)
+* Duration: June 2025 - July 2025 (1 month)
 * Focus Area: Machine Learning in Environmental Monitoring
 
 
